@@ -1,2 +1,2 @@
 # WonderfulWorldDungeon
-Gioco RPG2D per tesi d'esame di stato
+Gioco RPG2D progetto per esame di stato.
