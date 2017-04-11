@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="30" tilewidth="32" tileheight="32" nextobjectid="21">
+ <tileset firstgid="1" name="walls1" tilewidth="32" tileheight="32" tilecount="224" columns="14">
+  <image source="C:/Program Files/Tiled/examples/walls1.png" width="448" height="512"/>
+ </tileset>
+ <tileset firstgid="225" name="modernday_a5" tilewidth="32" tileheight="32" tilecount="128" columns="8">
+  <image source="C:/Program Files/Tiled/examples/modernday_a5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="353" name="MZ7bXNX" tilewidth="32" tileheight="32" tilecount="522" columns="18">
+  <image source="C:/Program Files/Tiled/examples/MZ7bXNX.jpg" width="595" height="938"/>
+ </tileset>
+ <tileset firstgid="875" name="hf1_indoors_2" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/hf1_indoors_2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1131" name="hf2_statues_2" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/hf2_statues_2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1387" name="hf1_dungeon_6" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/hf1_dungeon_6.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1643" name="torch1" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/Oggettie cose/dc-dngn/wall/torches/torch1.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="1644" name="travel_exclusion" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/Oggettie cose/dc-misc/travel_exclusion.png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0625" y="-0.0625" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Base" width="15" height="30">
+  <data encoding="base64" compression="zlib">
+   eJwTYmRgEKIAd5GBYXpjkPBcIJ4HxPOBeAEQLwTiRUC8GE0dNr3rgZiHCRNvJULvQTS9h6D840TovQzEV4D4KlTPdSB9A4hv4tDrhwU/Bup7AsRPmbDLY7MXhvcD9RwA4oNM2OVH9Y7qHdU7OPRiw8h6camRZMCBmRkYpIBYmhm3GmzuGcXYMQAOB6YN
+  </data>
+ </layer>
+ <layer name="StatOut" width="15" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMBSACyt2cWcc4sggBIeaYCL0DncAAH83AUM=
+  </data>
+ </layer>
+ <layer name="Sedia" width="15" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh84Acz+Xo5WKjnjlEwCkbBKBgFwx8AAKW3AQg=
+  </data>
+ </layer>
+ <layer name="Scrivania/colonne/librerie" width="15" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAM2LEwMNgDsQML6erigOx4IE4goJdYdeFA+QggjiSgDgQC2VD56UA9GUCcyYJfHQgkYhHDBohVRy+AzS/EyhPyC638Oupm0uTJBaNuJk1+FAwvAACQvg8l
+  </data>
+ </layer>
+ <layer name="Collisioni" width="15" height="30" opacity="0.38">
+  <data encoding="base64" compression="zlib">
+   eJzLYWNgyBkEGB8gVj2x8pTqJeReZD2E7CXGjMGgl5g4ooW9lOgddTPx9lKid7C6GZ+99HYzoTKMkvKS2DIVX9k20gEAshA2xw==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer">
+  <object id="1" x="35" y="96">
+   <polyline points="-2.75,-0.25 94,0 94,-27.75"/>
+  </object>
+  <object id="3" x="32" y="95">
+   <polyline points="0,0 -0.25,640.5 160,639.75 160,703.75 122.75,704.75 123.75,736.25 96.25,736.25 95.5,704.75 -31.5,704.75"/>
+  </object>
+  <object id="4" x="191.5" y="784.5">
+   <polyline points="0,0 96.5,0.25"/>
+  </object>
+  <object id="5" x="95.6667" y="696.667">
+   <polyline points="0,0 7.66667,5 25.6667,5.33333 30.6667,0.333333 32,-9.33333 27.6667,-15.6667 3,-15.6667 0.333333,-10"/>
+  </object>
+  <object id="6" x="96.3333" y="599.667">
+   <polyline points="0,0 7,5 21.3333,5.66667 29.3333,2.33333 31.3333,-10.3333 28,-14.3333 2,-12.3333 -1.33333,-8.66667 -1,0"/>
+  </object>
+  <object id="7" x="95.3333" y="408.333">
+   <polyline points="0,0 7.66667,5 25.6667,5.33333 32.6667,1 32.6667,-7.66667 28.6667,-14 3.66667,-14 1.33333,-10.3333 0.333333,0"/>
+  </object>
+  <object id="8" x="100" y="298.667">
+   <polyline points="0,0 -4,5.33333 -4.66667,13.6667 2,18.6667 21,18.6667 28.3333,13 27.3333,5.33333 24.3333,-1 -1,-0.333333"/>
+  </object>
+  <object id="9" x="69" y="170">
+   <polyline points="0,0 -5.33333,5.33333 -5,13.3333 2.33333,18.6667 18.6667,18.6667 27.6667,13.6667 27.6667,6.33333 21,-1.66667 0.666667,1"/>
+  </object>
+  <object id="10" x="195.333" y="102.333">
+   <polyline points="0,0 -1.33333,3.66667 -2,31.6667 -2.66667,37 -0.666667,42.3333 2,44.6667 26.6667,44.6667 26.6667,45 40,44.3333 51.3333,44.6667 62.3333,43.6667 85,44.3333 92.3333,42 90.6667,32.3333 91.3333,5 89.3333,-0.333333 -1,0.333333"/>
+  </object>
+  <object id="11" x="387.667" y="171">
+   <polyline points="0,0 -2.33333,3.33333 -2,13 4,18 18.6667,18.6667 27,14 27,4 24,-2.66667 -1,-1"/>
+  </object>
+  <object id="12" x="356.667" y="300">
+   <polyline points="0,0 -4.66667,2 -4.33333,12.3333 -0.333333,17 21,16.3333 25.6667,14 27,5 24.6667,-0.333333 0.333333,0.333333"/>
+  </object>
+  <object id="13" x="356.333" y="491">
+   <polyline points="0,0 -5.33333,5.66667 -4,12 0.333333,18.3333 14,18.6667 19.3333,18.6667 26.6667,13.3333 27,3.33333 24.6667,-2.33333 1.66667,-2"/>
+  </object>
+  <object id="14" x="355" y="588">
+   <polyline points="0,0 -3,3.33333 -4.33333,13.3333 5,17 23,17.6667 28.6667,14.6667 28.6667,5 26,-0.666667 -0.666667,0.333333"/>
+  </object>
+  <object id="15" x="355" y="682">
+   <polyline points="0,0 -3.66667,5 -2,15 0,17.3333 5.66667,20.3333 19.3333,20 26.6667,14.6667 27.6667,4.66667 25.3333,0.333333 0.666667,-1.33333"/>
+  </object>
+  <object id="16" x="356.667" y="389">
+   <polyline points="-1,3 -5.66667,10.3333 -5,21 1,23.6667 18,24.3333 26.6667,18.6667 26.6667,10 22.6667,3 2.66667,2.33333 0,3.33333"/>
+  </object>
+  <object id="18" x="130" y="64.6667">
+   <polyline points="0,0 220.667,1.33333 220.667,30 252,30.6667"/>
+  </object>
+  <object id="20" x="415.333" y="96.6667">
+   <polyline points="0,0 30,0.666667 31.3333,636.667 -128,640 -129.333,701.333 -92,703.333 -90,733.333 -64.6667,734 -64,701.333 63.3333,701.333"/>
+  </object>
+ </objectgroup>
+</map>
