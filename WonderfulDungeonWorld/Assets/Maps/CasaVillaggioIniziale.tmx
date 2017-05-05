@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="interior" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/LPC_house_interior/interior.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="house_inside" tilewidth="32" tileheight="32" tilecount="224" columns="16">
+  <image source="C:/Program Files/Tiled/examples/house_inside.png" width="512" height="448"/>
+ </tileset>
+ <tileset firstgid="481" name="wall_vines0" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/crawl-tiles Oct-5-2010/dc-dngn/wall/wall_vines0.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="482" name="51_04_10" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/51_04_10.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Pavimento" width="11" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxTYmBgUCECKwKxKBA/ZCSMhclQa0gEHu5qhYCYBQs2ROMLAjEAzyoddg==
+  </data>
+ </layer>
+ <layer name="Oggetti" width="11" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfLCFCTT4jA0MBI4JvCsQmQGwMpWFAD4jrgeoakNS6ArELEDtDaWTQD1Q3gZGB6iAUaGYYEeZGAdWkAnEaEEcTUA9SWwrEZUSoJRYAAHi0CYs=
+  </data>
+ </layer>
+</map>

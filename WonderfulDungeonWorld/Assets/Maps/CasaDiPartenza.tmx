@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="10" tilewidth="32" tileheight="32" nextobjectid="44">
+ <properties>
+  <property name="unity:scale" value=""/>
+  <property name="unity:sortingLayerName" value=""/>
+ </properties>
+ <tileset firstgid="1" name="modernday_a5" tilewidth="32" tileheight="32" tilecount="128" columns="8">
+  <image source="C:/Program Files/Tiled/examples/modernday_a5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="129" name="walls1" tilewidth="32" tileheight="32" tilecount="224" columns="14">
+  <image source="C:/Program Files/Tiled/examples/walls1.png" width="448" height="512"/>
+ </tileset>
+ <tileset firstgid="353" name="hf1_a2" tilewidth="32" tileheight="32" tilecount="192" columns="16">
+  <image source="C:/Program Files/Tiled/examples/hf1_a2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="545" name="dngn_closed_door" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/Oggettie cose/dc-dngn/dngn_closed_door.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="546" name="wall_vines0" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/crawl-tiles Oct-5-2010/dc-dngn/wall/wall_vines0.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="547" name="dungeonex" tilewidth="32" tileheight="32" tilecount="100" columns="10">
+  <image source="C:/Program Files/Tiled/examples/dungeonex.png" width="320" height="320"/>
+ </tileset>
+ <tileset firstgid="647" name="house_inside" tilewidth="32" tileheight="32" tilecount="224" columns="16">
+  <image source="C:/Program Files/Tiled/examples/house_inside.png" width="512" height="448"/>
+ </tileset>
+ <tileset firstgid="871" name="interior" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Program Files/Tiled/examples/LPC_house_interior/interior.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1127" name="travel_exclusion" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="C:/Program Files/Tiled/examples/Oggettie cose/dc-misc/travel_exclusion.png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0909091" y="0.0909091" width="32" height="32"/>
+    <object id="2" x="0.272727" y="0.0909091" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="1128" name="th1" tilewidth="32" tileheight="32" tilecount="320" columns="20">
+  <image source="C:/Program Files/Tiled/examples/th1.png" width="670" height="528"/>
+ </tileset>
+ <layer name="PavimentoMuri" width="13" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzrYGZg6CIBtwNxNRArMRGPKynQM50EPKoHoqcCiLNw4OlYxMqBGAAbbD+S
+  </data>
+ </layer>
+ <layer name="Oggetti" width="13" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAeeMjMwKDEhFt+FlB+JjOEng2lPyLp+QqkvwHxcWaEnlVA9kpmCL0aSjOyIORZgXw2IL7OzEA0EAWqFcOh/jbQ/jt4/IAOHgDVvgbiN0D8kEh9ID2/gfgPCXpoDQDTwhWI
+  </data>
+ </layer>
+ <layer name="Collisioni" width="13" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxLZ2FgSB+CGAbwyeECyOpwmUesfnrqIQYQE27YxAHDoCFx
+  </data>
+ </layer>
+ <objectgroup name="Livello di oggetti 1">
+  <object id="40" x="32" y="115.5">
+   <polyline points="0,0 -0.5,169.5 193.5,171.5 192.5,202.5 220,202.5 223.5,204.5 224.5,173 352,171 352,12.5 308.5,11 311,44 265.5,43.5 265.5,-23 190.5,-18.5 191.5,7 159,6 160,-1.5 1,-0.5"/>
+  </object>
+  <object id="43" x="103.5" y="180">
+   <polyline points="0,0 5.5,-3 42.5,-5 50,-2.5 49.5,76 -1.5,75.5 -1,0"/>
+  </object>
+ </objectgroup>
+</map>
