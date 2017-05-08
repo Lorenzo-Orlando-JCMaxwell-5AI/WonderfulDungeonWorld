@@ -10,7 +10,8 @@ E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle
 
 
 # Installazione
-Scarica i files del gioco cliccando "Clone/download" ed estraieteli dove preferite
+Scarica i files del gioco cliccando "Clone/download" ed estraieteli dove preferite per giocare aprire il 
+il progetto su Unity e premere avvia
 
 # Ringraziamenti
 Lolz per la programmazione su unity e Casetta per le mappe e i mostri
