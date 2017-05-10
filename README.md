@@ -4,13 +4,12 @@ L'utente dall'inizio del gioco avrà la possibilità di esplorare un mondo vasto
 nemici e dovrà cercare di raggiungere un obbiettivo: sconfiggere il "Cattivone" o nemico principale. Il gioco 
 non ha un menu e ha un tutorial all'inizio del gioco. La storia durerà all'incirca 4 ore.
 
-# Istruzioni
-E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle in formato zip
-
 # Prerequisiti
 * Unity 5.4.1f
 * basta che non siano i computers della scuola, altrimenti scaricare il gioco con un giorno di anticipo!
 
+# Istruzioni
+E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle in formato zip
 
 # Installazione
 Scarica i files del gioco cliccando "Clone/download" ed estraieteli dove preferite per giocare aprire il 
