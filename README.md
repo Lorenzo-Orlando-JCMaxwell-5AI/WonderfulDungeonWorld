@@ -2,11 +2,11 @@
 Gioco RPG 2D progetto per esame di stato.
 
 # Istruzioni
-E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle in formato zip
+E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle in formato zip, successivamente decomprimerlo in una cartella a scelta
 
 # Prerequisiti
 * Unity 5.4.1f
-* basta che non siano i computers della scuola, altrimenti scaricare il gioco con un giorno di anticipo!
+* Il software non necessita di hardware prestanti
 
 
 # Installazione
