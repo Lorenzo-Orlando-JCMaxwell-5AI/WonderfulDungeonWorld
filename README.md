@@ -1,7 +1,7 @@
 <h1>   WonderfulDungeonWorld</h1>
 Il programma è un gioco di ruolo(GDR) 2D ambientato in un mondo fantasy creato dagli sviluppatori. 
 L'utente dall'inizio del gioco avrà la possibilità di esplorare un mondo vasto, di incontrare personaggi e 
-nemici e dovrà cercare di raggiungere un obbiettivo: sconfiggere il "Cattivone" o nemico principale. Il programma 
+nemici e dovrà cercare di raggiungere un obbiettivo: sconfiggere il "Cattivone" o nemico principale. Il gioco 
 non ha un menu e ha un tutorial all'inizio del gioco. La storia durerà all'incirca 4 ore.
 
 # Istruzioni
