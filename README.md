@@ -1,16 +1,19 @@
 <h1>   WonderfulDungeonWorld</h1>
-Gioco RPG 2D progetto per esame di stato.
+Il programma è un gioco di ruolo(GDR) 2D ambientato in un mondo fantasy creato dagli sviluppatori. 
+L'utente dall'inizio del gioco avrà la possibilità di esplorare un mondo vasto, di incontrare personaggi e 
+nemici e dovrà cercare di raggiungere un obbiettivo: sconfiggere il "Cattivone" o nemico principale. Il gioco 
+non ha un menu e ha un tutorial all'inizio del gioco. La storia durerà all'incirca 4 ore.
+
+# Specifiche
+Il gioco funziona su tutti i tipi di di computer, per ora richiede soltatno l'utilizzo di Unity 5.4.1f 
+scaricabile dal sito ufficiale di [Unity](https://unity3d.com/get-unity/download/archive).
 
 # Istruzioni
-E' possibile scaricare il gioco sul vostro pc tramite il download delle cartelle in formato zip, successivamente decomprimerlo in una cartella a scelta
+* Scaricare Wonderful Dungeon World mediante il tasto download/clone
+* Aprire Unity 5.4.1f
+* Aprire il gioco selezionando la direcotry di dov'è salvato
 
-# Prerequisiti
-* Unity 5.4.1f
-* Il software non necessita di hardware prestanti
-
-
-# Installazione
-Scarica i files del gioco cliccando "Clone/download" ed estraieteli dove preferite
 
 # Ringraziamenti
-Lolz per la programmazione su unity e Casetta per le mappe e i mostri
+Lolz per la programmazione su unity e Casetta per le mappe e i mostri.
+Si ringrazia la documentazione open source di [C#](https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments).
