@@ -6,12 +6,12 @@ non ha un menu e ha un tutorial all'inizio del gioco. La storia durerà all'inci
 
 # Specifiche
 Il gioco funziona su tutti i tipi di di computer, per ora richiede soltatno l'utilizzo di Unity 5.4.1f 
-scaricabile dal sito ufficiale di [Unity](https://unity3d.com/get-unity/download/archive) 
+scaricabile dal sito ufficiale di [Unity](https://unity3d.com/get-unity/download/archive).
 
 # Istruzioni
-*Scaricare Wonderful Dungeon World mediante il tasto download/clone
-*Aprire Unity 5.4.1f
-*Aprire il gioco selezionando la direcotry di dov'è salvato
+* Scaricare Wonderful Dungeon World mediante il tasto download/clone
+* Aprire Unity 5.4.1f
+* Aprire il gioco selezionando la direcotry di dov'è salvato
 
 
 # Ringraziamenti
